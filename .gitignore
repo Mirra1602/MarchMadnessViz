@@ -1,0 +1,10 @@
+#Files I don’t want to track 
+dfList.p
+dfList.txt
+gregreda_espn_scraper.py
+imdbex.py
+BeautifulSoup.py
+PickleFiles
+virtualenv-1.11
+virtualenv.py
+rsconnect
