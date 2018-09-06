@@ -1,6 +1,6 @@
 # MarchMadnessViz
 
-This project scrapes various KPIs fron espn's website using python and builds an interactive visualization in r-Shiny. 
+This project scrapes various KPIs fron espn's website using python and builds an interactive visualization in r-Shiny. It allows to compare the performance two teams at a time for the last few seasons.  
 The final result can be seen here:
 https://vizbon.shinyapps.io/CollegeBasketballStats/
 
